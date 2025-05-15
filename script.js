@@ -8,5 +8,5 @@ let fullprice = 5;
 let adaptive = 6;
 
 
-alert ("Hello, dear МамоЮзер")
-console.log("Ты точно МамоЮзер?")
+alert ("Hello, dear МамоЮзер");
+console.log("Ты точно МамоЮзер?");
